@@ -1,6 +1,5 @@
-**Hi everyone! My name is Katie Chan hehe!** <img align="right" src="/assets/IMG/cloud.png">
+**Hi everyone! My name is Katie Chan!** <img align="right" src="/assets/IMG/cloud.png">
 
-For this project, you will be applying your skills to train a machine learning model using real-world data, then publishing a report on your own website.
 
 ### Dataset
 https://www.kaggle.com/datasets/adityakadiwal/water-potability
